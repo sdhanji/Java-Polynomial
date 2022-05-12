@@ -29,9 +29,9 @@
  *
  * 2) Fill in the following fields:
  *
- * NAME: Shiv Dhanji
- * UNIVERSITY ID: 2109288
- * DEPARTMENT: Mathematics
+ * NAME:
+ * UNIVERSITY ID:
+ * DEPARTMENT:
  */
 
 // These next lines import the relevant classes needed to output an image and
